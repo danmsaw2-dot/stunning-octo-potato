@@ -14,7 +14,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:0 type="stream" channelId="4628", ATV AVRUPA
 http://klaratv.com:80/play/live.php?mac=00:1A:79:19:5F:B7&stream=912464&extension=ts&play_token=tVYWl7HuOE
 #EXTINF:0 type="stream" channelId="1045", Show TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:0 type="stream" channelId="4631", SHOW TÜRK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 #EXTINF:0 type="stream" channelId="4632", SHOW MAX
