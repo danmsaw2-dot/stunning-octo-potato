@@ -55,8 +55,8 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIy
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/BVHgB9D3/images-1.png", MUGLA TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/DH2Vwjh9/anadolum-tv-tr.png", ANADOLUM TV
-https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/TDQk3sk2/images.jpg", Anadolu Dost TV
+https://yayin1.canlitv.fun/canlitv/dosttv.stream/playlist.m3u8?hash=031d75f609adc0bf3ec7d17c94365d5e
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/PGMwPrx6/images-2.png", TiViTURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/Y4zGfx1k/F-QH1-TMXQAAHh-Ky.png", SUPERTURK TV
@@ -117,8 +117,8 @@ https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w91852283.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network
 https://yayin2.canlitv.fun/live/cartoon-network.stream/playlist.m3u8?hash=031d75f609adc0bf3ec7d17c94365d5e
-#EXTINF:0 type="stream" channelId="-1", Zarok TV
-https://zindikirmancki.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Deniz Postası TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8?hash=031d75f609adc0bf3ec7d17c94365d5e
 #EXTINF:-1 group-title="0 MAXIM TV",MAXiM TV 1 HD
 
 #EXTVLCOPT:network-caching=1000
