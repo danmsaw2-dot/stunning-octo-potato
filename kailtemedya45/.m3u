@@ -86,7 +86,7 @@ https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", MTürk TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/VWYWSvGj/images-5.png", TV DEN
-http://klaratv.com:80/play/live.php?mac=00:1A:79:19:5F:B7&stream=912814&extension=ts&play_token=TIRCPhJBMH
+https://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:0 type="stream" channelId="1303", FX
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/fVzVtJ56/images-4.jpg", Cine 1
@@ -119,6 +119,10 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w918
 https://yayin2.canlitv.fun/live/cartoon-network.stream/playlist.m3u8?hash=031d75f609adc0bf3ec7d17c94365d5e
 #EXTINF:0 type="stream" channelId="-1", Deniz Postası TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8?hash=031d75f609adc0bf3ec7d17c94365d5e
+#EXTINF:0 type="stream" channelId="-1", FRT TV
+https://clvd26.socialsmart.tv/frttv/bant1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kocaeli Tv
+https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="0 MAXIM TV",MAXiM TV 1 HD
 
 #EXTVLCOPT:network-caching=1000
