@@ -6,7 +6,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="1092", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="1044", KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:0 type="stream" channelId="4629", Euro D
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 #EXTINF:0 type="stream" channelId="962", ATV
