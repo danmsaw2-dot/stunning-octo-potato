@@ -83,8 +83,8 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/bgqR4GkC/images-6.png", Line TV
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", MTürk TV
-https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sat7 Türk
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/VWYWSvGj/images-5.png", TV DEN
 https://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:0 type="stream" channelId="1303", FX
@@ -117,12 +117,16 @@ https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w91852283.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network
 https://yayin2.canlitv.fun/live/cartoon-network.stream/playlist.m3u8?hash=031d75f609adc0bf3ec7d17c94365d5e
+#EXTINF:0 type="stream" channelId="-1", Alanya Tv
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Deniz Postası TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8?hash=031d75f609adc0bf3ec7d17c94365d5e
 #EXTINF:0 type="stream" channelId="-1", FRT TV
 https://clvd26.socialsmart.tv/frttv/bant1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", Kocaeli Tv
 https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sun Tv
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8?hash=031d75f609adc0bf3ec7d17c94365d5e
 #EXTINF:-1 group-title="0 MAXIM TV",MAXiM TV 1 HD
 
 #EXTVLCOPT:network-caching=1000
