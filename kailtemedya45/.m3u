@@ -6,7 +6,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="1092", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", KANAL D
-https://yayin2.canlitv.fun/live/kanald.stream/chunklist_w1302441962.m3u8?hash=7271d3ead9ace9def14c2f2279f527a0A8F2qS-MODNoixLjrJfBodFoKYtKCE_LPSdz3uM0R0MaWNiKK3UYR_n3q_KzVYwM_cXoR4y1mX5ZxbmPKqPKPRMTAila6slBsFojagpMv2mvUNTZ_2AAOmoSBiDTHp8otVAf9WATgUSvLOCFEHaf_bouXsRWJ9x9EOkBxxzRHRk6MvlHMeEAlKOXjEn6PqD_NVkE9uKJD0SPZ6HRc5eyGCuuZ2r4JCFbGXwaXOdnBkKTHUh-ObSfe-qZNGF7JRRqMaxiG8X-NSGaMjLf7YlJSgYRfoVLdMwkAHX3M1AGeXKk-f1oouTwdZLpz0XrbNowAnCCSiC9UmNLRQEA1Jk7hTX1Hwb4Oa8K0N5RwSLKDXHtLU0co9wkzpC0Ovavudtmakx-svnm8xZtcZFHQYSmur5qjLoSLSIET3lxAYlh905_dijloRWbM1pSc5sE003j-lqKtxr9nav1OyCxHSJktuscrEDdw-WyljA9JFrbCeeKyXu2VWqp_fCMAnEs98Fv-4Nm0SvlJ_OMy45G6j2HqmT_rjFmpIgysDP8cv_097Llhttps://yayin2.canlitv.fun/live/kanald.stream/chunklist_w2050163595.m3u8?hash=7271d3ead9ace9def14c2f2279f527a0
+https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=7271d3ead9ace9def14c2f2279f527a0
 #EXTINF:0 type="stream" channelId="4629", Euro D
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 #EXTINF:0 type="stream" channelId="962", ATV
