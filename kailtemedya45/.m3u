@@ -128,7 +128,7 @@ https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sun Tv
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8?hash=031d75f609adc0bf3ec7d17c94365d5e
 #EXTINF:0 type="stream" channelId="-1", Şaban Tv
-https://cdn900.canli.mobi/sabantv.m3u8?tkn=Yp4kkttPTaGf0TgyNpUjIg&tms=1760890098&hst=tv.canli.mobi&ip=78.190.14.172
+https://cdn900.freebroadcast.vip/sabantv.m3u8?tkn=xmD_9ZKKVcSofJt0x2b9kQ&tms=1760971356&hst=www.freebroadcast.vip&ip=78.190.14.172
 #EXTINF:-1 group-title="0 MAXIM TV",MAXiM TV 1 HD
 
 #EXTVLCOPT:network-caching=1000
