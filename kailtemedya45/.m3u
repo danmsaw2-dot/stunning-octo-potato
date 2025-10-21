@@ -1,2 +1,13 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:9
+#EXT-X-MEDIA-SEQUENCE:1588386
+#EXTINF:9,
 http://livasupport99.xyz:80/get.php?username=sc&password=MQHJRKBmqK&type=m3u_plus
+#EXTINF:9,
+
+#EXTINF:9,
+
+#EXTINF:9,
+
